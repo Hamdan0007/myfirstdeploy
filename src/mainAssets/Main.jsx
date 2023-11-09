@@ -1,7 +1,7 @@
 
 import { Link } from 'react-scroll';
 import Navbar from './Navbar';
-import MobileNavbar from './mobileNavbar';
+import MobileNavbar from './MobileNavbar';
 
 const  Main=()=>{
 

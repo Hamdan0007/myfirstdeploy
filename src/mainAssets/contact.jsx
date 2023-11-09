@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Navbar from "./Navbar"
-import MobileNavbar from "./mobileNavbar";
+import MobileNavbar from "./MobileNavbar";
 import axios from "axios"
 
 
